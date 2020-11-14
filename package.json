@@ -1,6 +1,6 @@
 {
   "name": "msg-reply",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a tool to reply to your messages.",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/KLUY50/msg-reply/issues"
   },
-  "homepage": "https://github.com/KLUY50/msg-reply#readme",
-  "dependencies": {
-    "http": "0.0.1-security"
-  }
+  "homepage": "https://github.com/KLUY50/msg-reply#readme"
 }
