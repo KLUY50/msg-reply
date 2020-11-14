@@ -1,7 +1,7 @@
 {
   "name": "msg-reply",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is a tool to reply to your messages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,16 @@
     "reply"
   ],
   "author": "Da_aK",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KLUY50/msg-reply.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KLUY50/msg-reply/issues"
+  },
+  "homepage": "https://github.com/KLUY50/msg-reply#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
